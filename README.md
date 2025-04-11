@@ -61,6 +61,9 @@ L’objectif de cette application est de fournir une **plateforme simple, intera
 
 ## 🗃️ Modèle Conceptuel de la Base de Données
 
+<img width="669" alt="image" src="https://github.com/user-attachments/assets/390ed937-ae66-4e2d-a6ea-0cd3f6c2edc0" />
+
+
 
 
 ---
