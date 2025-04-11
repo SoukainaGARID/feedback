@@ -66,5 +66,13 @@ L’objectif de cette application est de fournir une **plateforme simple, intera
 ---
 
 ## ⚙️ Exécution des Tests
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/bc023eca-cacf-4e0b-99e2-c09b4a7051e1" />
+<img width="286" alt="image" src="https://github.com/user-attachments/assets/297ca4b9-1dbd-431c-8c2e-2fc6ca86d1ab" />
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/c6872525-9429-4a5a-8bc7-5670b4f44586" />
+<img width="256" alt="image" src="https://github.com/user-attachments/assets/5ba8e3ea-188d-4b8a-a545-1f29231cc2bf" />
+
+
+
+
 
 
