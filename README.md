@@ -54,6 +54,7 @@ L’objectif de cette application est de fournir une **plateforme simple, intera
 
 ## 🧩 Diagramme de Classe
 
+<img width="387" alt="image" src="https://github.com/user-attachments/assets/0b75eb4e-10f9-4317-adbd-fef363555a79" />
 
 
 ---
